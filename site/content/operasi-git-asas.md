@@ -2,7 +2,9 @@ Title: Operasi Git Asas
 Date: 2013-07-13
 Author: kidino
 
-## Memahami Operasi Asas Git
+## Operasi Git Asas
+
+### Memahami Git
 
 Ini adalah tutorial asas untuk mereka yang baru menggunakan Git dan sedang cuba memahami cara kerja dengan Git. 
 
@@ -16,6 +18,8 @@ Untuk permulaan, eloklah *download* dan pasang Git. Mulakan di sini, dan ianya m
 http://git-scm.com/download
 
 Sekiranya sudah *download* dan *install*, lancarkan Git Bash. Sekiranya menggunakan Linux atau Mac, awak boleh terus gunakan Terminal. Untuk pengguna Windows, cuba cari Git Bash dari *Start Menu*. 
+
+>Artikel ini hanya memberi pengenalan kepada penggunaan Git sebagai programmer individu. Jadi ianya belum lagi merangkumi topik-topik seperti fetch, pull, push
 
 ```
 git init
