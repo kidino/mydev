@@ -27,5 +27,9 @@ git log
 git commit
 git add
 git checkout
+git ignore
+git status
+git branch
+git config
 ```
 
