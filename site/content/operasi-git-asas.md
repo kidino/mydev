@@ -23,5 +23,9 @@ Sekiranya sudah *download* dan *install*, lancarkan Git Bash. Sekiranya mengguna
 
 ```
 git init
+git log
+git commit
+git add
+git checkout
 ```
 
